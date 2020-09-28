@@ -11,8 +11,8 @@
 ### 기술 스택 | Skills 💻
 #### Android Native
 - **Java**, Kotlin
-- **Retrofit2 & Gson**
-- **DataBinding, Glide...**
+- **MVVM (LiveData, DataBinding)**
+- **Retrofit2**
 #### Cross Platform
 - Flutter
 #### Web Frontend, Python, Windows (C++), Embedded (Arduino)
