@@ -33,7 +33,7 @@ xml 언어 자체의 특성과 상술한 재사용성 문제로 인해, 레이�
 
 [플러터](https://flutter.dev/)랑 문법적, 구조적으로 비슷한 부분이 많다. 같은 구글에서 만들기도 하고, 둘 다 기본적으로 머티리얼 디자인을 기반으로 하고 있어서 그런 것 같다. 근데 나중에 플러터가 충분히 stable 해지면 정말 컴포즈는 'iOS 안되는 반쪽짜리 플러터'가 되는 게 아닐까? *(이미지: [Reddit](https://www.reddit.com/r/mAndroidDev/comments/bm4kmh/composing_ui_declaratively/))* 
 
-## 🤔 한번 써보자
+## 🤔 일단 써보자
 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1638098724163/AHPAKTeuH.png)
 일단 한번 써보기로 했다. 우선  [Compose 기초 코드랩](https://developer.android.com/codelabs/jetpack-compose-basics#0)을 찾아서 수강했다. 해당 코드랩에서는 컴포즈의 기초적인 동작 원리와 UI 작성 방법, State와 LazyColumn(RecyclerView 대체)에 대해 다루고 있다. 위 이미지처럼 펼쳐지는 리스트를 만드는 것이 최종 목표다.
@@ -102,7 +102,7 @@ fun Main() {
 
 레이아웃은 머티리얼 기반이므로 Scaffold를 사용했다. AlertDialog도 여기서 관리하는데 구현 방식이 썩 마음에 들진 않는다. 
 
-### 투두 리스트
+### 리스트
 
 ```
 @Composable
@@ -125,7 +125,7 @@ fun TodoList(
 리스트를 그리는 함수다. RecyclerView와 코드 양을 비교해보면...
 
 
-### 투두 아이템
+### 아이템
 
 ```
 @Composable
@@ -170,7 +170,7 @@ fun TodoItem(item: Todo, onChange: (todo: Todo) -> Unit, onDelete: () -> Unit) {
 
 %[https://github.com/roian6/ComposeTODO]
 
-## 🚀 그래서 쓸만한가요
+## 🚀 그래서 쓸만한가요?
 내가 잠깐 써보고 느낀 Jetpack Compose의 장단점은 다음과 같다.
 
 ### 장점
