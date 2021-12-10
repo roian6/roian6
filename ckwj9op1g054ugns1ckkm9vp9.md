@@ -31,7 +31,7 @@ xml 언어 자체의 특성과 상술한 재사용성 문제로 인해, 레이�
 
 ![30fviu.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1638097393576/aclG0AxTZ.jpeg)
 
-[플러터](https://flutter.dev/)랑 문법적, 구조적으로 비슷한 부분이 많다. 같은 구글에서 만들기도 하고, 둘 다 기본적으로 머티리얼 디자인을 기반으로 하고 있어서 그런 것 같다. 근데 나중에 플러터가 충분히 stable 해지면 정말 컴포즈는 'iOS 안되는 반쪽짜리 플러터'가 되는 게 아닐까? *(이미지: [Reddit](https://www.reddit.com/r/mAndroidDev/comments/bm4kmh/composing_ui_declaratively/))* 
+[플러터](https://flutter.dev/)랑 문법적, 구조적으로 비슷한 부분이 많다. 같은 구글에서 만들기도 하고, 둘 다 기본적으로 머티리얼 디자인을 기반으로 하고 있어서 그런 것 같다. 근데 나중에 플러터가 충분히 stable 해지면 컴포즈는 'iOS 안되는 반쪽짜리 플러터'가 되는 게 아닐까? *(이미지: [Reddit](https://www.reddit.com/r/mAndroidDev/comments/bm4kmh/composing_ui_declaratively/))* 
 
 ## 🤔 일단 써보자
 
