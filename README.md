@@ -1,4 +1,4 @@
-## 세상을 바꾸는 모바일 개발자를 꿈꾸는 고등학생, 정찬효입니다! 👋
+## 일상에 가치를 주는 서비스를 만들고 싶은 개발자, 정찬효입니다! 👋
 ## Hi there! I'm Mobile Developer in South Korea. 
 
 ### 프로필 | Profile 🙋‍♂️
