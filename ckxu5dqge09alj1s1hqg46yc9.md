@@ -1,5 +1,6 @@
-## G마켓이 세상을 지배한다 #Shorts
+## G마켓이 세상을 지배한다
 
+# #Shorts
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1640936459377/sEfOYC19wC.png)
 [Gmarket Sans](http://company.gmarket.co.kr/company/about/company/company--font.asp) 폰트가 2021년 들어 많이 보이기 시작했다. 웹사이트, 프레젠테이션, 길거리 전단지까지 이곳저곳에 등장한다. 특히 공공기관에서 뭔가 만들었다 하면 백이면 백 이 폰트를 쓴다. 마치 n년 전의 나눔스퀘어 열풍을 보는 것 같다.
 
