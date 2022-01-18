@@ -12,7 +12,7 @@
 - **Good at** Android(Java, Kotlin)  
 - **Studying** Flutter, Python(Algorithm), Vue.js
 
-### 최근 작업물 | Recent Works 🚀
+### 최근 작업 | Recent Works 🚀
 - https://github.com/roian6/FoodInfo  
 Food information app built with modern android components
 
@@ -23,6 +23,4 @@ Simple todo app built with Jetpack Compose
 - https://blog.chanhyo.dev/
 
 ### 연락처 | Contacts 🙌
-- roian6@naver.com
-- [Instagram](https://www.instagram.com/chanhyo.jung/)
-- [Facebook](https://www.facebook.com/DevChanhyo/)
+- roian6@naver.com | [Instagram](https://www.instagram.com/chanhyo.jung/) | [Facebook](https://www.facebook.com/DevChanhyo/)
