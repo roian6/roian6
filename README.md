@@ -1,10 +1,10 @@
 ## 일상에 편리함과 재미를 주는 서비스를 만들고 싶습니다.
 
 ### 프로필 | Profile 🙋‍♂️
-- **선린인터넷고등학교 소프트웨어과** 재학 중  
+- **선린인터넷고등학교 소프트웨어과** 졸업 (2019 ~ 2021)  
 Sunrin Internet High School, Software Division  
 
-- **숭실대학교 글로벌미디어학부** 입학 예정  
+- **숭실대학교 글로벌미디어학부** 재학 중 (2022~)  
 Soongsil University, Global Media Department
 
 ### 기술 | Skills 💻
