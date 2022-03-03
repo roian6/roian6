@@ -1,4 +1,4 @@
-## Jetpack Compose 살짝 맛보기 🚀
+## Jetpack Compose 맛보기 🚀
 
 Jetpack Compose를 이용해 간단한 To-do 앱을 만들며 느낀 점과 장단점에 대해 다룹니다.
 
