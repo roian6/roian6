@@ -37,3 +37,9 @@
 ![99E1BD4C5DD09A9527.jpeg](https://cdn.hashnode.com/res/hashnode/image/upload/v1646738867440/_SuHJcHmy.jpeg)
 
 여러모로 후회가 남는다. 평소에 알고리즘 좀 해 놓을걸 싶기도 하고, 웹이랑 SQL도 준비해서 풀었으면 그나마 기대라도 해볼 수 있지 않았을까 싶다. 다음 지원 때는 좀 더 준비된 모습으로 임하고 싶다. 알고리즘은 DP나 그래프 위주로 공부하고, 웹이나 SQL을 활용하는 프로젝트도 몇 개 해보면 도움이 될 것 같다. 강해져서 돌아온다...
+
+## 🤔 이왜붙?
+
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1646899226479/QJmdIPzpK.png)
+
+03/10 수정) 어떻게 붙었지? 문 닫고 들어간 것 같다. SQL하고 웹 공부 빡세게 해야겠다.
