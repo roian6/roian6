@@ -45,3 +45,7 @@ solved.ac 클래스 순서대로 매일 한 문제 이상 푸는 것을 목표�
 꾸준히 풀어서 언젠가 깃허브 프로필에 백준 티어를 올려두고 싶다.  
  [백준](https://www.acmicpc.net/user/roian) 
  [solved.ac](https://solved.ac/profile/roian)
+
+
+![스크린샷 2022-03-30 오후 4.30.44.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1648625488788/jhHLUCpBW.png)
+3/28 기준 골드를 달성했다. (물론 골드 문제를 풀어서 올라간 건 아니고 물로켓이다.) 연속 문제 해결은 128일이다. 앞으로도 화이팅이다.
