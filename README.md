@@ -9,7 +9,7 @@ Soongsil University, Global Media Department
 
 ### 기술 | Skills 💻
 - **Good at** Android(Java, Kotlin)  
-- **Studying** Flutter, Python(Algorithm), Vue.js
+- **Studying** Flutter, Python
 
 ### 최근 작업 | Recent Works 🚀
 - https://github.com/roian6/FoodInfo  
