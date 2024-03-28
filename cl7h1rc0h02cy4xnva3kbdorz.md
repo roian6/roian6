@@ -168,7 +168,7 @@ override fun onCreate(savedInstanceState: Bundle?) {
 
 그런데 이 상태에서는 몇 가지 문제점이 존재한다.
 
-1. \*\*화면 위쪽에 의도하지 않았던 보라색 툴바가 생긴다. \*\*
+1. **화면 위쪽에 의도하지 않았던 보라색 툴바가 생긴다.**
     
 2. **사이트 로딩이 불완전하다.**
     
@@ -388,10 +388,10 @@ val button = findViewById<FloatingActionButton>(R.id.button)
 앞서 웹뷰를 이용해 웹 사이트를 앱 위에 올리고, 실제 앱처럼 사용할 수 있도록 최적화하는 방법에 대해 알아보았다. 마지막으로 만든 앱을 Google Play에 출시하기 전 고려하면 좋은 사항에 대해 정리해 보았다.
 
 * **앱 아이콘 적용하기**  
-    %\[https://developer.android.com/codelabs/basic-android-kotlin-training-change-app-icon\]
+    https://developer.android.com/codelabs/basic-android-kotlin-training-change-app-icon
     
 * **스플래시 화면 적용하기**  
-    %\[https://developer.android.com/develop/ui/views/launch/splash-screen\]
+    https://developer.android.com/develop/ui/views/launch/splash-screen
     
 * **도메인 소유권 증명 (중요)**  
     웹뷰를 이용한 앱을 스토어에 출시할 경우, 해당 웹 사이트의 소유권이 자신에게 있다는 것을 함께 알려주어야 한다. [관련 블로그](https://satisfactoryplace.tistory.com/256)에서 자세한 내용을 참고할 수 있다.
