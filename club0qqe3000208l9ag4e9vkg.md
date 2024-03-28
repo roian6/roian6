@@ -18,11 +18,11 @@ tags: python, captcha, github-actions-1, playwright
 
 여행을 가서도 백준을 풀고 심지어 휴대폰으로 답안을 제출하는 등 스트릭 유지를 위해 갖은 수를 썼지만, 그럼에도 어찌할 수 없는 것이 있었으니 바로 [군대](https://roian6.hashnode.dev/army-tiger)다. 훈련소에서 매일 백준을 풀 수는 없지 않은가?
 
-따라서 내가 물리적으로 문제를 풀 수 없는 기간에도 스트릭을 유지할 수 있게 도와주는 프로그램을 만들기로 결심했다. 물론 알고리즘 실력에는 하등 도움이 안 되는 사짜같은 발상이지만 어쩌겠는가? 솔직히 800 스트릭은 좀 아깝다. 🤔
+따라서 내가 물리적으로 문제를 풀 수 없는 기간에도 스트릭을 유지할 수 있게 도와주는 프로그램을 만들기로 결심했다. 알고리즘 실력에는 하등 도움이 안 되는 사짜같은 발상이지만 어쩌겠는가? 800 스트릭은 솔직히 좀 아까운 걸... 🤔
 
 ## ⚙️ 설계 및 사용 기술
 
-사용 시나리오는 대략 아래와 같이 구상했다.
+사용 시나리오를 대략 구상해 봤다.
 
 1. 부계정으로 문제를 풀어 정답 코드를 다수 확보한다.
     
@@ -75,7 +75,7 @@ page.click('[id=submit_button]')
 
 ---
 
-3. 캡차를 우회할 방법을 찾다 [playwright\_recaptcha](https://pypi.org/project/playwright-recaptcha/) 패키지를 발견했다. 캡차의 음성으로 듣기 옵션을 통해 STT로 해석하거나, [CapSolver](https://www.capsolver.com/)가 제공하는 이미지 식별 기능을 통해 캡차를 해독하는 작업이 가능하더라.
+3. 캡차를 우회할 방법을 찾다 [playwright\_recaptcha](https://pypi.org/project/playwright-recaptcha/) 패키지를 발견했다. 캡차의 '음성으로 듣기' 옵션을 통해 STT로 해석하거나, [CapSolver](https://www.capsolver.com/)가 제공하는 이미지 식별 기능을 통해 캡차를 해독하는 작업이 가능하더라.
     
 
 ```python
@@ -99,7 +99,7 @@ browser = playwright.firefox.launch(headless=True)
 
 ```python
 def login(page: Page, is_first: bool):
-    <submit login info...>
+    (submit login info...)
     try:
         if is_first:
             with recaptchav2.SyncSolver(page) as solver:
@@ -155,11 +155,11 @@ result_text = result_node.text_content()
 result_class = str(result_node.evaluate("node => node.className"))
 ```
 
-채점 결과 테이블에서 첫 번째에 있는 결과가 채점 기다리는 중, 채점 중 등의 로딩 상태가 아니게 될 때 까지 기다렸다가 결과값을 받아오도록 했다. (Playwright는 아이템을 탐색하거나 클릭하는 등의 작업을 실행하면 그 아이템이 화면에 나타날 때까지 자동으로 기다려 준다.)
+채점 결과 테이블에서 첫 번째에 있는 결과가 '기다리는 중', '채점 중' 등의 로딩 상태가 아니게 될 때 까지 기다렸다가 결과값을 받아오도록 했다. (Playwright는 아이템을 탐색하거나 클릭하는 등의 작업을 실행하면 그 아이템이 화면에 나타날 때까지 자동으로 기다려 준다.)
 
 ---
 
-7. 채점 결과와 남은 문제를 슬랙으로 전송하고, 제출한 문제 파일은 삭제한다.
+7. 채점 결과와 남은 문제의 수를 슬랙으로 전송하고, 제출한 문제 파일은 삭제한다.
     
 
 ```python
@@ -501,7 +501,7 @@ jobs:
 
 ## 🤔 후기
 
-완성까지 이틀 정도 걸렸다. 기능 구현 자체는 첫날에 완료했는데, 캡차 관련 이슈로 삽질을 하느라 시간이 좀 많이 소요됐다. 이제 며칠 간 돌려보면서 테스트할 예정이다. 오랜 기간 동안 생각대로 잘 작동할지 기대가 된다.
+완성까지 이틀 정도 걸렸다. 기능 구현 자체는 첫날에 마쳤는데, 캡차 관련 이슈로 삽질을 하느라 시간이 좀 많이 소요됐다. 이제 며칠 간 돌려보면서 테스트할 예정이다. 오랜 기간 동안 생각대로 잘 작동할지 기대가 된다.
 
 현재 레포지토리는 private으로 해 두었는데, 혹시나 필요한 사람이 있다면 public으로 전환할 생각이 있다. 근데 이 정도로 스트릭에 집착하는 사람은 잘 없지 않을까...
 
