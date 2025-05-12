@@ -16,7 +16,7 @@ Soongsil University, Global School of Media
 - **Interested in** Web Automation, Lowcode
 
 ### 작업물 | Public Works 🚀
-- [언니옷장(UnniCloset)](https://play.google.com/store/apps/details?id=com.onebigcloset.sisters_closet)  
+- **언니옷장(UnniCloset)**  
 P2P 의상 대여 서비스 (~2023.09)
 
 - [웨어마스크(WhereMask)](https://play.google.com/store/apps/details?id=com.david0926.wheremask2)  
