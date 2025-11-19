@@ -9,7 +9,7 @@ Soongsil University, Global School of Media
 
 - **SW마에스트로** 13기 연수생 & 지속성장사업 참여 (2022~2023)
 
-- **육군 전문특기병(신호정보/전자전운용)** 복무 (2024.05~)
+- **육군 전문특기병(신호정보/전자전운용)** 복무 (2024~2025)
 
 ### 기술 | Skills 💻
 - **Good at** Mobile Engineering (Android, Flutter)
