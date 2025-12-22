@@ -1,5 +1,4 @@
 # [chanhyo.dev](https://chanhyo.dev)
-일상에 편리함과 재미를 주는 서비스를 만들고 싶습니다.
 
 ### 프로필 | Profile 🙋‍♂️
 - **선린인터넷고등학교 소프트웨어과** 졸업 (2019~2021)  
@@ -16,17 +15,9 @@ Soongsil University, Global School of Media
 - **Good at** Mobile Engineering (Android, Flutter)
 - **Interested in** Automation, VibeCoding
 
-### 작업물 | Works 🚀
-- **언니옷장(UnniCloset)**  
-P2P 의상 대여 서비스 (~2023.09)
-
-- **웨어마스크(WhereMask)**  
-공적마스크 재고 조회 서비스 (~2020.06)
-
 ### 블로그 | Blog 👀
 - [blog.chanhyo.dev](https://blog.chanhyo.dev)
 
 ### 연락처 | Contacts 🙌
 - roian6@naver.com
-- [Instagram](https://www.instagram.com/chanhyo.jung) | [Facebook](https://www.facebook.com/DevChanhyo)
-- 기술적 제너럴리스트를 지향합니다. 모든 기회에 대해 열려 있습니다! 
+- [Instagram](https://www.instagram.com/chanhyo.jung)
