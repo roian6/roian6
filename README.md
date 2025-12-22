@@ -1,2 +1,2 @@
-- ### [프로필 | Profile 🙋‍♂️](chanhyo.dev)
-- ### [블로그 | Blog 👀](blog.chanhyo.dev)
+- ### [프로필 | Profile 🙋‍♂️](https://chanhyo.dev)
+- ### [블로그 | Blog 👀](https://blog.chanhyo.dev)
