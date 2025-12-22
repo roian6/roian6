@@ -13,11 +13,10 @@ Soongsil University, Global School of Media
 
 ### 기술 | Skills 💻
 - **Good at** Mobile Engineering (Android, Flutter)
-- **Interested in** Automation, VibeCoding
+- **Interested in** Automation, Vibe Coding
 
 ### 블로그 | Blog 👀
-- [blog.chanhyo.dev](https://blog.chanhyo.dev)
+- [**Chanhyo's Blog**](https://blog.chanhyo.dev) - 개발자 정찬효의 블로그
 
 ### 연락처 | Contacts 🙌
-- roian6@naver.com
-- [Instagram](https://www.instagram.com/chanhyo.jung)
+- roian6@naver.com | [Instagram](https://www.instagram.com/chanhyo.jung)
