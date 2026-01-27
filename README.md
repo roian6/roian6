@@ -13,7 +13,7 @@ Soongsil University, Global School of Media
 
 ### 기술 | Skills 💻
 - **Good at** Mobile Engineering (Android, Flutter)
-- **Interested in** Automation, Vibe Coding
+- **Interested in** Automation, Vibecode
 
 ### 블로그 | Blog 👀
 - [**Chanhyo's Blog**](https://blog.chanhyo.dev) - 개발자 정찬효의 블로그
