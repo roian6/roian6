@@ -4,11 +4,9 @@ AI-native software developer focused on agent tooling, automation, and product e
 
 [Website](https://chanhyo.dev) · [Writing](https://blog.chanhyo.dev) · [Open-source work](https://github.com/search?q=author%3Aroian6+type%3Apr+is%3Amerged&type=pullrequests) · [Email](mailto:roian6@naver.com)
 
-<p align="center">
-  <a href="https://tokscale.ai/u/roian6">
-    <img src="https://tokscale.ai/api/embed/roian6/svg?template=graph&amp;color=blue&amp;theme=dark&amp;sort=cost&amp;rank=plain&amp;tokens=compact&amp;cost=compact" width="680" alt="Tokscale activity for @roian6">
-  </a>
-</p>
+<a href="https://tokscale.ai/u/roian6">
+  <img src="https://tokscale.ai/api/embed/roian6/svg?template=graph&amp;color=blue&amp;theme=dark&amp;sort=cost&amp;rank=plain&amp;tokens=compact&amp;cost=compact" width="680" alt="Tokscale activity for @roian6">
+</a>
 
 ## Current focus
 
