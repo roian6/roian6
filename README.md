@@ -1,8 +1,8 @@
 # Chanhyo Jung
 
-AI-native software developer focused on agent tooling, automation, and product engineering.
+Software developer building AI agent tools, automation, and practical products.
 
-[Website](https://chanhyo.dev) · [Writing](https://blog.chanhyo.dev) · [Open-source work](https://github.com/search?q=author%3Aroian6+type%3Apr+is%3Amerged&type=pullrequests) · [Email](mailto:roian6@naver.com)
+[Website](https://chanhyo.dev) · [Open-source work](https://github.com/search?q=author%3Aroian6+type%3Apr+is%3Amerged&type=pullrequests) · [Email](mailto:roian6@naver.com)
 
 <a href="https://tokscale.ai/u/roian6">
   <img src="https://tokscale.ai/api/embed/roian6/svg?template=graph&amp;color=blue&amp;theme=dark&amp;sort=cost&amp;rank=plain&amp;tokens=compact&amp;cost=compact" width="680" alt="Tokscale activity for @roian6">
@@ -10,9 +10,7 @@ AI-native software developer focused on agent tooling, automation, and product e
 
 ## Current focus
 
-- Open-source AI agent and developer tooling
-- Reliable workflows around Codex, Claude, Hermes, and browser automation
-- Local-first personal automation and data systems
+These days I spend most of my time on AI agents and automation. I contribute to open-source tools, improve my workflows around Codex, Claude, and Hermes, and build local-first systems for my own data.
 
 ## Selected open-source work
 
@@ -24,10 +22,12 @@ AI-native software developer focused on agent tooling, automation, and product e
 
 ## Background
 
-Mobile engineering with Android and Flutter, early-stage product work, and SW Maestro 13. Currently studying computer science and media at Soongsil University.
+I started building Android apps in high school. In 2020, I worked with other students on **WhereMask**, which showed nearby public-mask inventory during COVID-19. [News1 later reported more than 400,000 users](https://www.news1.kr/it-science/computer/4147803), and the Android app is still [on Google Play](https://play.google.com/store/apps/details?id=com.david0926.wheremask2&hl=en).
 
-## Writing
+In my first year at university, I joined [SW Maestro 13](https://www.swmaestro.ai/sw/bbs/B0000006/view.do?nttId=29779&menuNo=200015&pageIndex=3). After the main program, I stayed on through its follow-up support program and received government funding to start a business. Over the next year, I worked on [**UnniCloset**](https://chanhyo.dev/#works), a peer-to-peer fashion rental service. I planned the product, built the Flutter app, and ran the service through 2023.
 
-Notes on software, automation, projects, and things that took longer than expected.
+## Get in touch
 
-[Read the blog →](https://blog.chanhyo.dev)
+I'm open to early-stage teams and collaborations where I can help take an idea from prototype to something people use.
+
+[Email me](mailto:roian6@naver.com)
