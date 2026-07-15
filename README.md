@@ -10,9 +10,9 @@ Software developer building AI agent tools, automation, and practical products.
 
 ## Current focus
 
-These days I spend most of my time on AI agents and automation. I contribute to open-source tools, improve my workflows around Codex, Claude, and Hermes, and build local-first systems for my own data.
+These days I spend most of my time on AI agents and automation. What interests me most is making them reliable enough to use in real products and day-to-day development work.
 
-## Selected open-source work
+## Selected open-source contributions
 
 | Project | Work | Evidence |
 |---|---|---|
