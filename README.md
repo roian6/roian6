@@ -22,9 +22,9 @@ These days I spend most of my time on AI agents and automation. I contribute to 
 
 ## Background
 
-I started building Android apps in high school. In 2020, I worked with other students on **WhereMask**, which showed nearby public-mask inventory during COVID-19. [News1 later reported more than 400,000 users](https://www.news1.kr/it-science/computer/4147803), and the Android app is still [on Google Play](https://play.google.com/store/apps/details?id=com.david0926.wheremask2&hl=en).
+I started building Android apps in high school. In 2020, I worked with other students on **WhereMask**, which showed nearby mask inventory during COVID-19. [News1 later reported more than 400,000 users](https://www.news1.kr/it-science/computer/4147803), and the Android app is still [on Google Play](https://play.google.com/store/apps/details?id=com.david0926.wheremask2&hl=en).
 
-In my first year at university, I joined [SW Maestro 13](https://www.swmaestro.ai/sw/bbs/B0000006/view.do?nttId=29779&menuNo=200015&pageIndex=3). After the main program, I stayed on through its follow-up support program and received government funding to start a business. Over the next year, I worked on [**UnniCloset**](https://chanhyo.dev/#works), a peer-to-peer fashion rental service. I planned the product, built the Flutter app, and ran the service through 2023.
+In my first year at university, I joined [SW Maestro](https://www.swmaestro.ai/sw/bbs/B0000006/view.do?nttId=29779&menuNo=200015&pageIndex=3). After the main program, I stayed on through its follow-up support program and received government funding to start a business. Over the next year, I worked on [**UnniCloset**](https://chanhyo.dev/#works), a peer-to-peer fashion rental service. I planned the product, built the Flutter app, and ran the service through 2023.
 
 ## Get in touch
 
