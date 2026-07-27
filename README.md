@@ -30,9 +30,11 @@ Apple Health AI Bridge connects Apple Health to AI agents without sending the da
 
 ## Background
 
-I started building Android apps in high school. In 2020, I worked with other students on **WhereMask**, which showed nearby mask inventory during COVID-19. [News1 later reported more than 400,000 users](https://www.news1.kr/it-science/computer/4147803), and the Android app is still [on Google Play](https://play.google.com/store/apps/details?id=com.david0926.wheremask2&hl=en).
+I started building Android apps in high school. In 2020, I worked with other students on **WhereMask**, a public-mask inventory service during COVID-19. [KBS featured our team and the app](https://www.youtube.com/watch?v=JEYKvE_N0NE&t=45s); it later served [more than 400,000 users](https://www.news1.kr/it-science/computer/4147803). The Android app is still [available on Google Play](https://play.google.com/store/apps/details?id=com.david0926.wheremask2&hl=en).
 
-In my first year at university, I joined [SW Maestro](https://www.swmaestro.ai/sw/bbs/B0000006/view.do?nttId=29779&menuNo=200015&pageIndex=3). After the main program, I stayed on through its follow-up support program and received government funding to start a business. Over the next year, I worked on [**UnniCloset**](https://chanhyo.dev/#works), a peer-to-peer fashion rental service. I planned the product, built the Flutter app, and ran the service through 2023.
+In my first year at university, I was selected for the 13th cohort of [SW Maestro](https://www.swmaestro.ai/sw/main/main.do), a Korean government-backed program centered on industry mentoring and team software projects ([official alumni interview](https://www.swmaestro.ai/sw/bbs/B0000006/view.do?nttId=29779&menuNo=200015&pageIndex=3)). After completing the program, I received government startup funding through its follow-up support initiative to launch [**UnniCloset**](https://apkcombo.com/unnicloset/com.onebigcloset.sisters_closet/), a peer-to-peer fashion rental business. I planned the product, built the Flutter app, and ran the service through 2023.
+
+After completing military service, I returned to university and shifted that same product-first approach toward AI agent tooling, open-source reliability work, and local-first software—contributing across agent projects and building [Apple Health AI Bridge](https://github.com/roian6/apple-health-ai-bridge).
 
 ## Get in touch
 
