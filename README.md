@@ -2,7 +2,7 @@
 
 Software developer building AI agent tools, automation, and practical products.
 
-[Website](https://chanhyo.dev) · [Open-source work](https://github.com/search?q=author%3Aroian6+type%3Apr+is%3Amerged&type=pullrequests) · [Email](mailto:roian6@naver.com)
+[Apple Health AI Bridge](https://github.com/roian6/apple-health-ai-bridge) · [Open-source work](https://github.com/search?q=author%3Aroian6+type%3Apr+is%3Apublic+is%3Amerged&type=pullrequests) · [Website](https://chanhyo.dev) · [Email](mailto:roian6@naver.com)
 
 <a href="https://tokscale.ai/u/roian6">
   <img src="https://tokscale.ai/api/embed/roian6/svg?template=graph&amp;color=blue&amp;theme=dark&amp;sort=cost&amp;rank=plain&amp;tokens=compact&amp;cost=compact" width="680" alt="Tokscale activity for @roian6">
@@ -12,11 +12,19 @@ Software developer building AI agent tools, automation, and practical products.
 
 These days I spend most of my time on AI agents and automation. What interests me most is making them reliable enough to use in real products and day-to-day development work.
 
+## What I'm building
+
+### [Apple Health AI Bridge](https://github.com/roian6/apple-health-ai-bridge)
+
+Apple Health AI Bridge connects Apple Health to AI agents without sending the data through a hosted intermediary. It includes an iPhone companion, a self-hosted receiver, and read-only CLI and MCP interfaces.
+
+[Website](https://healthbridge.chanhyo.dev) · [Source](https://github.com/roian6/apple-health-ai-bridge) · [Latest release](https://github.com/roian6/apple-health-ai-bridge/releases/latest)
+
 ## Selected open-source contributions
 
 | Project | Work | Evidence |
 |---|---|---|
-| [Open Design](https://github.com/nexu-io/open-design) | Onboarding, browser-assist UX, and interaction-state fixes with regression coverage | [Merged work](https://github.com/search?q=repo%3Anexu-io%2Fopen-design+author%3Aroian6+type%3Apr+is%3Amerged&type=pullrequests) |
+| [Open Design](https://github.com/nexu-io/open-design) | Web, desktop, daemon, and MCP reliability improvements with regression coverage | [Merged work](https://github.com/search?q=repo%3Anexu-io%2Fopen-design+author%3Aroian6+type%3Apr+is%3Apublic+is%3Amerged&type=pullrequests) |
 | [Omnigent](https://github.com/omnigent-ai/omnigent) | Backend route validation and Claude-native launch settings | [#1448](https://github.com/omnigent-ai/omnigent/pull/1448) · [#2116](https://github.com/omnigent-ai/omnigent/pull/2116) |
 | [CodeWhale](https://github.com/Hmbown/CodeWhale) | Readable and copyable provider links in narrow terminal layouts | [#4028](https://github.com/Hmbown/CodeWhale/pull/4028) |
 
