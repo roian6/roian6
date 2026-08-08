@@ -24,9 +24,12 @@ Apple Health AI Bridge connects Apple Health to AI agents without sending the da
 
 | Project | Work | Evidence |
 |---|---|---|
-| [Open Design](https://github.com/nexu-io/open-design) | Web, desktop, daemon, and MCP reliability improvements with regression coverage | [Merged work](https://github.com/search?q=repo%3Anexu-io%2Fopen-design+author%3Aroian6+type%3Apr+is%3Apublic+is%3Amerged&type=pullrequests) |
-| [Omnigent](https://github.com/omnigent-ai/omnigent) | Backend route validation and Claude-native launch settings | [#1448](https://github.com/omnigent-ai/omnigent/pull/1448) · [#2116](https://github.com/omnigent-ai/omnigent/pull/2116) |
-| [CodeWhale](https://github.com/Hmbown/CodeWhale) | Readable and copyable provider links in narrow terminal layouts | [#4028](https://github.com/Hmbown/CodeWhale/pull/4028) |
+| [Open Design](https://github.com/nexu-io/open-design) | Web, desktop, daemon, packaging, and MCP reliability improvements with regression coverage | [Merged work](https://github.com/search?q=repo%3Anexu-io%2Fopen-design+author%3Aroian6+type%3Apr+is%3Apublic+is%3Amerged&type=pullrequests) |
+| [OpenHands](https://github.com/OpenHands/OpenHands) | Added live agent activity to chat for clearer runtime visibility | [#16110](https://github.com/OpenHands/OpenHands/pull/16110) |
+| [Microsoft Agent Governance Toolkit](https://github.com/microsoft/agent-governance-toolkit) | Added .NET parity for accumulated-context governance | [#3443](https://github.com/microsoft/agent-governance-toolkit/pull/3443) |
+| [detekt](https://github.com/detekt/detekt) | Fixed an `UnusedPrivateProperty` false negative for constructor properties | [#9491](https://github.com/detekt/detekt/pull/9491) |
+| [Omnigent](https://github.com/omnigent-ai/omnigent) | Improved backend route validation and Claude-native launch settings | [#1448](https://github.com/omnigent-ai/omnigent/pull/1448) · [#2116](https://github.com/omnigent-ai/omnigent/pull/2116) |
+| [MudBlazor](https://github.com/MudBlazor/MudBlazor) | Fixed striped progress animation and documented palette color strings | [#13447](https://github.com/MudBlazor/MudBlazor/pull/13447) · [#13532](https://github.com/MudBlazor/MudBlazor/pull/13532) |
 
 ## Background
 
