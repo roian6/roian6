@@ -16,9 +16,9 @@ These days I spend most of my time on AI agents and automation. What interests m
 
 ### [Apple Health AI Bridge](https://github.com/roian6/apple-health-ai-bridge)
 
-Apple Health AI Bridge connects Apple Health to AI agents without sending the data through a hosted intermediary. It includes an iPhone companion, a self-hosted receiver, and read-only CLI and MCP interfaces.
+Apple Health AI Bridge connects Apple Health to AI agents without sending the data through a hosted intermediary. It includes an iPhone companion, a self-hosted receiver, and read-only CLI and MCP interfaces. Its iPhone app, Health Bridge for AI, is available on the App Store.
 
-[Website](https://healthbridge.chanhyo.dev) · [Source](https://github.com/roian6/apple-health-ai-bridge) · [Latest release](https://github.com/roian6/apple-health-ai-bridge/releases/latest)
+[App Store](https://apps.apple.com/kr/app/health-bridge-for-ai/id6786152806) · [Website](https://healthbridge.chanhyo.dev) · [Source](https://github.com/roian6/apple-health-ai-bridge) · [Latest release](https://github.com/roian6/apple-health-ai-bridge/releases/latest)
 
 ## Selected open-source contributions
 
@@ -26,13 +26,13 @@ Apple Health AI Bridge connects Apple Health to AI agents without sending the da
 |---|---|---|
 | [Open Design](https://github.com/nexu-io/open-design) | Web, desktop, daemon, packaging, and MCP reliability improvements with regression coverage | [Merged work](https://github.com/search?q=repo%3Anexu-io%2Fopen-design+author%3Aroian6+type%3Apr+is%3Apublic+is%3Amerged&type=pullrequests) |
 | [OpenHands](https://github.com/OpenHands/OpenHands) | Added live agent activity to chat for clearer runtime visibility | [#16110](https://github.com/OpenHands/OpenHands/pull/16110) |
-| [Omnigent](https://github.com/omnigent-ai/omnigent) | Improved backend route validation and Claude-native launch settings | [#1448](https://github.com/omnigent-ai/omnigent/pull/1448) · [#2116](https://github.com/omnigent-ai/omnigent/pull/2116) |
+| [Local Deep Research](https://github.com/LearningCircuit/local-deep-research) | Improved research error guidance and PDF upload feedback, with regression coverage | [Merged work](https://github.com/search?q=repo%3ALearningCircuit%2Flocal-deep-research+author%3Aroian6+type%3Apr+is%3Apublic+is%3Amerged&type=pullrequests) |
 
 ## Background
 
 I started building Android apps in high school. In 2020, I worked with other students on [WhereMask](https://play.google.com/store/apps/details?id=com.david0926.wheremask2&hl=en), a public-mask inventory service during COVID-19. [KBS featured our team and the app](https://www.youtube.com/watch?v=JEYKvE_N0NE&t=45s); it later served [more than 400,000 users](https://www.news1.kr/it-science/computer/4147803).
 
-In my first year at university, I was selected for the 13th cohort of [SW Maestro](https://www.swmaestro.ai/sw/main/main.do), a government-backed program centered on industry mentoring and team software projects ([official alumni interview](https://www.swmaestro.ai/sw/bbs/B0000006/view.do?nttId=29779&menuNo=200015&pageIndex=3)). I received government startup funding through its follow-up support initiative to launch [UnniCloset](https://apkcombo.com/unnicloset/com.onebigcloset.sisters_closet/), a peer-to-peer fashion rental business. I planned the product, built the Flutter app, and ran the service through 2023.
+In my first year at university, I was selected for the 13th cohort of [SW Maestro](https://www.swmaestro.ai/sw/main/main.do), a government-backed program centered on industry mentoring and team software projects ([official alumni interview](https://www.swmaestro.ai/sw/bbs/B0000006/view.do?nttId=29779&menuNo=200015&pageIndex=3)). I received government startup funding through its follow-up support initiative to launch [UnniCloset](https://blog.chanhyo.dev/short-2023/), a peer-to-peer fashion rental business. I planned the product, built the Flutter app, and ran the service through 2023.
 
 After completing military service, I returned to university and shifted that same product-first approach toward AI agent tooling, open-source reliability work, and local-first software—contributing across agent projects and building [Apple Health AI Bridge](https://github.com/roian6/apple-health-ai-bridge).
 
