@@ -2,7 +2,7 @@
 
 Software developer building AI agent tools, automation, and practical products.
 
-[Apple Health AI Bridge](https://github.com/roian6/apple-health-ai-bridge) · [Open-source work](https://github.com/search?q=author%3Aroian6+type%3Apr+is%3Apublic+is%3Amerged&type=pullrequests) · [Website](https://chanhyo.dev) · [Email](mailto:roian6@naver.com)
+[Apple Health AI Bridge](https://github.com/roian6/apple-health-ai-bridge) · [Open-source work](https://github.com/search?q=author%3Aroian6+type%3Apr+is%3Apublic+is%3Amerged&type=pullrequests) · [Website](https://chanhyo.dev) · [Email](mailto:hello@chanhyo.dev)
 
 <a href="https://tokscale.ai/u/roian6">
   <img src="https://tokscale.ai/api/embed/roian6/svg?template=graph&amp;color=blue&amp;theme=dark&amp;sort=cost&amp;rank=plain&amp;tokens=compact&amp;cost=compact" width="680" alt="Tokscale activity for @roian6">
@@ -40,4 +40,4 @@ After completing military service, I returned to university and shifted that sam
 
 I'm open to early-stage teams and collaborations where I can help take an idea from prototype to something people use.
 
-[Email me](mailto:roian6@naver.com)
+[Email me](mailto:hello@chanhyo.dev)
