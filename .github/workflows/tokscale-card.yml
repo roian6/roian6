@@ -1,0 +1,31 @@
+name: Refresh Tokscale card
+
+on:
+  schedule:
+    - cron: '23 */3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: tokscale-profile-card
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    if: github.repository == 'roian6/roian6'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09
+        with:
+          persist-credentials: false
+      - name: Test updater
+        run: python3 -B -m unittest discover -s .github/scripts -p test_update_tokscale_card.py -v
+      - name: Refresh card
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python3 -B .github/scripts/update_tokscale_card.py

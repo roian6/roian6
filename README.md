@@ -5,7 +5,7 @@ Software developer building AI agent tools, automation, and practical products.
 [Apple Health AI Bridge](https://github.com/roian6/apple-health-ai-bridge) · [Open-source work](https://github.com/search?q=author%3Aroian6+type%3Apr+is%3Apublic+is%3Amerged&type=pullrequests) · [Website](https://chanhyo.dev) · [Email](mailto:hello@chanhyo.dev)
 
 <a href="https://tokscale.ai/u/roian6">
-  <img src="https://tokscale.ai/api/embed/roian6/svg?template=graph&amp;color=blue&amp;theme=dark&amp;sort=cost&amp;rank=plain&amp;tokens=compact&amp;cost=compact" width="680" alt="Tokscale activity for @roian6">
+  <img src="https://raw.githubusercontent.com/roian6/roian6/profile-assets/tokscale.svg" width="680" alt="Tokscale activity for @roian6">
 </a>
 
 ## Current focus
