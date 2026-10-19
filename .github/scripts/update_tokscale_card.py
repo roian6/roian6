@@ -195,7 +195,9 @@ def main() -> int:
         if "GITHUB_REPOSITORY" in os.environ and os.environ["GITHUB_REPOSITORY"] != "roian6/roian6":
             raise CardError("Refusing to run outside roian6/roian6")
         token = os.environ.get("GITHUB_TOKEN", "")
-        if not token or not re.fullmatch(r"[A-Za-z0-9_-]+", token):
+        # Provider-issued tokens are opaque: enforce header safety, not a guessed format.
+        if (not token or len(token) > 4096
+                or any(not 33 <= ord(char) <= 126 for char in token)):
             raise CardError("GITHUB_TOKEN is missing or invalid")
         print(refresh(token))
         return 0

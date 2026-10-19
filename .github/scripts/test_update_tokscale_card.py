@@ -186,6 +186,29 @@ class IOTests(unittest.TestCase):
                 self.assertEqual(transport.requests, [])
                 self.assertNotIn(TOKEN, output)
 
+    def test_opaque_header_safe_tokens_are_preserved_exactly(self):
+        # Synthetic opaque values, not real credentials or provider-format claims.
+        for token in ("test.header.payload.signature", "opaque+/example==", "opaque~token-v2"):
+            with self.subTest(token=token):
+                result, transport, output, _ = self.run_card(
+                    [VALID, asset()], {"GITHUB_TOKEN": token, "GITHUB_REPOSITORY": "roian6/roian6"},
+                )
+                self.assertEqual(result, 0, output)
+                self.assertEqual([r.method for r in transport.requests], ["GET", "GET"])
+                self.assertIsNone(transport.requests[0].get_header("Authorization"))
+                self.assertEqual(transport.requests[1].get_header("Authorization"), "Bearer " + token)
+                self.assertNotIn(token, output)
+
+    def test_unsafe_or_excessive_token_is_rejected_without_io(self):
+        for token in (" leading", "trailing ", "a\nb", "a\rb", "a\tb", "a\x01b", "a\x7fb", "nonascii-\u00e9", "x" * 4097):
+            with self.subTest(length=len(token)):
+                result, transport, output, _ = self.run_card(
+                    [], {"GITHUB_TOKEN": token, "GITHUB_REPOSITORY": "roian6/roian6"},
+                )
+                self.assertEqual(result, 1)
+                self.assertEqual(transport.requests, [])
+                self.assertIn("GITHUB_TOKEN is missing or invalid", output)
+
     def test_repository_variable_can_be_absent(self):
         result, _, output, _ = self.run_card([VALID, asset()], {"GITHUB_TOKEN": TOKEN})
         self.assertEqual(result, 0, output)
