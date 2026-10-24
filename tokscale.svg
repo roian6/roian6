@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg data-template="graph" width="680" height="240" viewBox="0 0 680 240" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Tokscale contribution graph for @roian6">
+  <title>All-time rank</title>
   <defs><style>text{font-variant-numeric:tabular-nums}</style></defs>
   <rect width="680" height="240" rx="12" fill="#131822"/>
   <rect x="0.5" y="0.5" width="679" height="239" rx="11.5" fill="none" stroke="rgba(255,255,255,0.16)"/>
